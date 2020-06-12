@@ -567,7 +567,7 @@ template {
         margin: auto;
     }
     .welcome-colum {
-        padding-bottom: 150px;
+        padding-bottom: 100px;
     }
     .welcome-colum h3 {
         font-family: Dosis-bold;
@@ -614,7 +614,7 @@ template {
     	  background-color: #ecf0f1; 
     }
     .features-row {
-    	  padding-top: 160px;
+    	  padding-top: 120px;
     }
     .detail-features h2{
     		font-family: Dosis-bold;
@@ -635,7 +635,7 @@ template {
 
     }
     .features-cols {
-		  margin-top: 55px;
+		  margin-top: 5px;
     }
     .features-cols .services {
     	margin: 35px 0px;
