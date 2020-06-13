@@ -404,7 +404,7 @@ template {
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
-      padding: 0;
+      padding: 70px;
       opacity: .9;
     }
     /*overlay color*/    
@@ -427,23 +427,41 @@ template {
     }
     .content h1 {
       font-family: Dosis-bold;
-      font-size: 61px;
+      font-size: 80px;
       line-height: 26px;  
       color: #fff;
-      margin-bottom: 50px;
+      margin-bottom: 70px;
     }
     .content h2 {
       font-size: 33px;
       line-height: 26px;
       color: #fff;
       margin-bottom: 25px;
+	 
     }
+	
+		.content h1:hover {
+  -ms-transform: scale(1.3); /* IE 9 */
+  -webkit-transform: scale(1.3); /* Safari 3-8 */
+  transform: scale(1.3); 
+}
+	
+	
+	.content h2:hover {
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
+	
+	
+	
     .content p {
       width: 55%;
-      font-size: 18px;
+      font-size: 20px;
       line-height: 30px;
       color: #fff;
-      margin-bottom: 90px;
+	  margin-top: 50px;
+      margin-bottom: 70px;
     }
     .butns .get-btn  {
       font-family: Dosis-bold;
@@ -458,6 +476,10 @@ template {
       margin-right: 20px;
       margin-bottom: 30px;
     }    
+	
+	
+
+	
     .butns .learn-btn {
       font-family: Dosis-bold;
       font-size: 16px;
