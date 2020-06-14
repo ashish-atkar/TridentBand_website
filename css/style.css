@@ -1128,7 +1128,7 @@ template {
     /*Reviwes*/
     .review-sec {
         background-color: #ecf0f1;
-        padding-top: 160px;
+        padding-top: 100px;
     }
     .detail-reviwe h2 {
         font-family: Dosis-bold;
@@ -1258,8 +1258,8 @@ template {
     .offert-plan {
         margin: 100px auto 30px auto;
     } 
-    .plans-col {
-        max-width: 370px;
+    .plans-col {    /*cloumn*/
+        max-width: 360px;
         width: 100%;
         margin: 30px 15px;
     } 
