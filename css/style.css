@@ -670,6 +670,12 @@ template {
   		margin-bottom:-3px;
   		text-align: center;
   	}
+	
+	
+
+	
+	
+	
     .services .icon-img img {
         max-width: 50px;
         height: auto;
@@ -894,6 +900,7 @@ template {
         cursor: pointer;
     }
     /*Video*/
+	/*
     .video-sec {
         position: absolute;
         top: 0;
@@ -904,6 +911,7 @@ template {
         z-index: 2;
     }
      /*Video Plugin*/
+	 /*
     .video-background {
         background-image: url(../image/background-video.jpg);
         background-size: cover;
@@ -975,6 +983,7 @@ template {
         display: none;
     }
     /*Youtube button*/
+	/*
     .detail-video {
         color:#fff;
         text-align: center;
@@ -1015,12 +1024,14 @@ template {
       .detail-video {
         margin-top: 90px;
       }
+	  
       .jquery-background-video-pauseplay:before {
         position: absolute;
         top: 70%;
         width: 150px;
         height: 150px;
       }
+	  
       .jquery-background-video-pauseplay:after {
         position: absolute;
         top: 70%;
@@ -1029,6 +1040,61 @@ template {
         border-bottom: 30px solid transparent;
       }
     }
+	*/
+	
+	
+	
+	/*Video Section*/
+	
+	.video{
+		margin-top:50px;
+	}
+	
+	
+	.videoSectionL{
+		margin-top:100px;
+		width: 45%;
+		float: left;
+		padding:10px;
+	}
+	
+	.videoSectionL h2{
+		text-align: center;
+		font-family: Dosis-bold;
+		font-size: 44px;
+  		line-height: 26px;
+	}
+	
+	
+	.videoSectionR{
+		width: 45%;
+		float: left;
+		padding:10px;
+		margin-left: 40px;
+		margin-top:20px;
+	}
+	
+
+  	.videoSectionL hr {
+		text-align: center;
+  		margin: 25px 0px 30px 150px;
+  		width: 130px;
+  		height: 2px;
+  		background-color: #53c5d5;
+  	}
+	
+	.videoSectionL p {
+        font-size: 22px;
+        line-height: 35px;
+        width: 68%;
+        margin: 0 auto;
+    }  
+	
+	
+	
+	
+	
+	
     /*Team*/
     .team-section {
         padding: 160px 0px;
