@@ -787,7 +787,7 @@ template {
   		margin-top: 150px;
   	}
   	.chose-detail {
-  		margin-top: 60px;
+  		margin-top: 20px;
   	}
   	.chose-detail h2 {
   		font-family: Dosis-bold;
@@ -795,7 +795,7 @@ template {
   		line-height: 26px;
   	}
   	.chose-detail hr {
-  		margin: 25px 0px 30px 0px;
+  		margin: 25px 0px 10px 0px;
   		width: 117px;
   		height: 2px;
   		background-color: #53c5d5;
@@ -804,7 +804,7 @@ template {
   		font-family: Dosis Regular;
   		font-size: 22px;
   		line-height: 35px;
-  		margin-bottom: 70px;
+  		margin-bottom: 30px;
   	}
   	.chose-detail img {
   		margin-right: 15px;
