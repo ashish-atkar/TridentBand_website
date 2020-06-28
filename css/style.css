@@ -828,7 +828,7 @@ template {
 	
 	.gallery_div hr {
 		text-align: center;
-  		margin: 25px 0px 0px 620px;
+  		margin: 25px 0px 40px 620px;
   		width: 100px;
   		height: 2px;
   		background-color: #53c5d5;
