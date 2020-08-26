@@ -1768,3 +1768,9 @@ template {
     .copyright a:hover {
         color:#53c5d5;
     }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+      }
